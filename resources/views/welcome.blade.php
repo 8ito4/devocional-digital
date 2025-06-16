@@ -990,7 +990,7 @@
                     <span class="price-old">R$ 97</span>
                     <span class="price-new">R$ 37</span>
                 </div>
-                <p class="price-description">Por apenas <strong>R$ 37</strong>, você recebe 30 dias de devocionais diários exclusivos no WhatsApp</p>
+                <p class="price-description">Por apenas <strong>R$ 10</strong>, você recebe 30 dias de devocionais diários exclusivos no WhatsApp</p>
                 
                 <div class="offer-features">
                     <div class="offer-feature">30 devocionais únicos e profundos</div>
