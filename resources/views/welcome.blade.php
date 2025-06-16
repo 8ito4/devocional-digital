@@ -986,7 +986,7 @@
                 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; margin-bottom: 1rem;">
                     <div style="background: rgba(255, 255, 255, 0.2); padding: 8px; border-radius: 8px;">👑</div>
                 </div>
-                <h2 class="section-title">Oferta Especial</h2>
+                <h2 class="section-title">Oferta Especial - R$ 10</h2>
                 <div class="price-container">
                     <span class="price-old">R$ 97</span>
                     <span class="price-new">R$ 10</span>
