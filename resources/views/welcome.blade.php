@@ -988,7 +988,7 @@
                 <h2 class="section-title">Oferta Especial</h2>
                 <div class="price-container">
                     <span class="price-old">R$ 97</span>
-                    <span class="price-new">R$ 37</span>
+                    <span class="price-new">R$ 10</span>
                 </div>
                 <p class="price-description">Por apenas <strong>R$ 10</strong>, você recebe 30 dias de devocionais diários exclusivos no WhatsApp</p>
                 
