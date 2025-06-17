@@ -1,17 +1,3 @@
 {
-    "version": 2,
-    "functions": {
-        "api/index.php": {
-            "runtime": "vercel-php@0.7.1"
-        }
-    },
-    "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "/api/index.php"
-        }
-    ],
-    "buildCommand": "",
-    "outputDirectory": ".",
-    "installCommand": ""
+    "version": 2
 } 
