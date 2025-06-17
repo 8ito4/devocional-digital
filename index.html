@@ -1158,7 +1158,10 @@
     <script>
         // Scroll to offer section
         function scrollToOffer() {
-            window.location.href = '/planos';
+            document.getElementById('offer').scrollIntoView({ 
+                behavior: 'smooth',
+                block: 'start'
+            });
         }
 
         // FAQ toggle
